@@ -1,6 +1,6 @@
 # Bitacora NOC — Sistema de Registro Operativo
 
-Sistema web para el registro operativo del NOC (Network Operations Center) de Semantix. Permite a los operadores de cada turno registrar toda la actividad diaria: pollings de servidores, backups, procesos batch, novedades de turno y pase de turno.
+Sistema web para el registro operativo del NOC (Network Operations Center) . Permite a los operadores de cada turno registrar toda la actividad diaria: pollings de servidores, backups, procesos batch, novedades de turno y pase de turno.
 
 Aplicacion de un solo archivo HTML, sin dependencias de build, con almacenamiento en la nube via GitHub Contents API y sincronizacion automatica entre navegadores.
 
@@ -26,7 +26,7 @@ Aplicacion de un solo archivo HTML, sin dependencias de build, con almacenamient
 | Usuario | Rol |
 |---------|-----|
 | OPERAADMIN | Admin principal |
-| OPERAWU | Cliente (consulta) |
+
 
 ## Funcionalidades
 
